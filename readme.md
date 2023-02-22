@@ -5,7 +5,7 @@ This is the repo for the paper "Fusion of Global and Local Knowledge for Persona
 The overall procedure can be summarized into four main steps. i) Training of global knowledge representation with auxiliary variables,  ii) local fusion with sparse personalized component, 
 iii) auxiliary variables update,  and iv) server update with proximal step. 
 The following figure illustrates the overall process. 
-<div align=center><img width="700" height="450" src="https://github.com/huangtiansheng/fedslr/blob/main/fig/fedslr.png"/></div>
+<div align=center><img width="750" height="450" src="https://github.com/huangtiansheng/fedslr/blob/main/fig/fedslr.png"/></div>
 
 
 ##Baselines
