@@ -8,7 +8,7 @@ The following figure illustrates the overall process.
 <div align=center><img width="750" height="450" src="https://github.com/huangtiansheng/fedslr/blob/main/fig/fedslr.png"/></div>
 
 
-##Baselines
+## Baselines
 * FedAvg (http://proceedings.mlr.press/v54/mcmahan17a/mcmahan17a.pdf)
 * SCAFFOLD (http://proceedings.mlr.press/v119/karimireddy20a/karimireddy20a.pdf)
 * APFL (https://arxiv.org/pdf/2003.13461.pdf)
