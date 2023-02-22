@@ -42,8 +42,8 @@ If you find this repo useful, please cite our paper:
 
 ```
 @article{huang2022fusion,
-  title={Fusion of Global and Local Knowledge for  Personalized Federated Learning},
-  author={Huang, Tiansheng and Shen, Li and Sun, Yan and Lin, Weiwei and Dacheng Tao},
+  title={Fusion of Global and Local Knowledge for Personalized Federated Learning},
+  author={Huang, Tiansheng and Shen, Li and Sun, Yan and Lin, Weiwei and Tao, Dacheng},
 }
 ```
 
